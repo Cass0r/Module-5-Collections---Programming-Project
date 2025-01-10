@@ -2,8 +2,7 @@
 202520 Software Development I CEN-3024C-24205
 
 Problem Description: Write a Java program that accomplishes that demonstrates the use of the Collections framework and the Collection interface.
-
-Required Application Functionality: Your application must complete the following algorithm:
+The purpose of this project was to show the many utilities that Collections has when it comes to working with list,set, and array.
 
 1. Create a List - Declare an ArrayList of Strings. Using a loop, and allow the user to add eight pieces of data
 (just a single word) to the collection. Do not allow the user to enter duplicate entries, ignoring case.
@@ -35,3 +34,5 @@ user what output they see.
 10. Comment on Collections vs. Collection:  In a // multi-line comment in your code //,  describe in your own words the
 difference between Collections and Collection, and more broadly, the difference between a class and an interface. Please
 be thorough yet succinct. Cite your sources.
+
+The purpose of this project was to show the many utilities that Collections has when it comes to working with list,set, and array.
